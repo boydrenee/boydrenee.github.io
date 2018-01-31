@@ -1,0 +1,12 @@
+h1{
+	float left
+}
+li {
+	float: right;
+	list-style-type: none;
+}
+a {
+   display: block;
+   padding: 8px;
+   aline: center;
+}
